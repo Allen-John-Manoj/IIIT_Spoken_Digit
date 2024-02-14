@@ -1,0 +1,1 @@
+### The above `iit.py` file is to be run. Before that, the recordings folder in [spoken-digit-dataset](https://github.com/Jakobovski/free-spoken-digit-dataset/tree/4c3b0983b1b7f46ec5e49ca527e8e8844a81107e/recordings) must be extracted and put in the same folder as `hyperparameters.yaml`
